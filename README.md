@@ -1,0 +1,3 @@
+- im just another guy
+- i just want some experience on meaningful codes
+- im currently learning just java and python
